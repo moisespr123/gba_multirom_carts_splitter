@@ -1,6 +1,8 @@
 # GBA MultiROM Carts Splitter
 
-This is a Python script written to split GBA ROMS inside those bootleg carts.
+This is a Python script written to split GBA ROMS inside those bootleg carts. 
+
+Tested on a 369in1 cart splitted in 32MB chunks (1 GBA file per 32MB bank).
 
 Requires Python 3
 
